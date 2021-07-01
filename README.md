@@ -6,7 +6,7 @@ Model build based on the original pre-trained YOLO model. Assets are stored on a
 
 Upload the notebook to Colab and run all (notebook should work directly with no changes)
 
-Optional: you can tune threshlods (confidence, IoU,...) as you like
+Optional: tune threshlods (confidence, IoU,...) as you like, change images or test on your own images.
 
 ## Results preview
 
